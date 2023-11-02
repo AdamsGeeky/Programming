@@ -1,0 +1,23 @@
+# dashbord
+
+name: "📚 Learn"
+description: Start a learning checklist
+title: "[Learn] <name>"
+labels: [Learning]
+assignees:
+  - AdamsGeeky
+body:
+  - type: checkboxes
+    attributes:
+      label: Tracking list
+      options:
+        - label: Learn
+          required: false
+        - label: Create Practical Demo
+          required: false
+        - label: Write blog
+          required: false
+        - label: Create Video
+          required: false
+        - label: Add to notes repo
+          required: false
