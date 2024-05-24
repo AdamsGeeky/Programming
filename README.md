@@ -1,52 +1,42 @@
-# **C Programming 
+# Highlights
 
-**Week 1**
+**White Board Teaching:** Every topic is covered as if in a classroom setting, using a whiteboard for clear explanations.
 
-- [ ] Introduction to C programming
-- [ ] Variables and data types
-- [ ] Operators and expressions
-- [ ] Control flow statements (if, else, switch, for, while, do-while)
-- [ ] Functions
+**Practical Sessions:** Each topic includes practical demonstrations to reinforce learning.
+Section-wise Quizzes and Workbook Programs: Quizzes and workbook programs are provided for each section to test and practice your knowledge.
 
-**Week 2**
+**Student Project:** A hands-on project at the end of the course to apply what you've learned.
 
-- [ ] Arrays and strings
+## Basics
+
+- [ ] Datatypes and Variables
+- [ ] Operators and Expressions
+- [ ] Conditional Statements
+- [ ] Loops
+
+## Intermediate Concepts
+
 - [ ] Pointers
-- [ ] Structures and unions
-- [ ] Dynamic memory allocation
+- [ ] Functions
+- [ ] Function Overloading
+- [ ] Object-Oriented Programming (OOP)
+  - [ ] Classes and Objects
+  - [ ] Constructors and Destructors
+  - [ ] Operator Overloading
+  - [ ] Inheritance
+  - [ ] Polymorphism
+  - [ ] Abstract Classes
+  - [ ] Function Overriding
+  - [ ] Friend Members
+  - [ ] Static Members
+  - [ ] Inner Classes
 
-**Week 3**
+## Advanced Topics
 
-- [ ] File I/O
-- [ ] Preprocessor directives
-- [ ] Command-line arguments
-- [ ] Makefiles
+- [ ] Templates
+- [ ] Exception Handling
+- [ ] I/O Streams
+- [ ] Standard Template Library (STL)
+- [ ] Lambda Expressions
+- [ ] Features of Modern C++ 11
 
-**Week 4**
-
-- [ ] Advanced functions (pointers to functions, function recursion)
-- [ ] Advanced data structures (linked lists, trees, graphs)
-- [ ] Sorting and searching algorithms
-- [ ] Hash tables
-
-**Week 5**
-
-- [ ] C standard library
-- [ ] Concurrency and threading
-- [ ] Error handling
-
-**Week 6**
-
-- [ ] Object-oriented programming in C
-- [ ] Code review and refactoring
-- [ ] Unit testing
-
-**Week 7**
-
-- [ ] Building and deploying C applications
-- [ ] Performance tuning
-- [ ] Debugging
-
-**Week 8**
-
-- [ ] Real-world C projects
